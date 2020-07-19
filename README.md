@@ -3,10 +3,10 @@
 I'm a machine learning researcher who is deeply interested in tinkering with neural networks, building recommendation systems, and gathering best practices of machine learning in production.
 I write often about theoretical deep learning and applied MLOps.
 
-- 🔭 I’m currently doing research at the intersection of [`deep learning and recommendation systems`](https://github.com/khanhnamle1994/transfer-rec)
-- 🌱 I’m currently learning how to [`crack the data science interview`](https://github.com/khanhnamle1994/cracking-the-data-science-interview)
-- 👯 I’m looking to evangelize and build out the community with [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
-- 🤔 I’m looking for help to get more guests on [Datacast](https://datacast.simplecast.com/)
+- 🔭 I’m currently doing research at the intersection of [`deep learning and recommendation systems`](https://github.com/khanhnamle1994/transfer-rec).
+- 🌱 I’m currently cracking the [`data science`](https://github.com/khanhnamle1994/cracking-the-data-science-interview) and [machine learning engineering](https://github.com/khanhnamle1994/technical-interview-prep) interviews.
+- 👯 I’m looking to evangelize the [Full Stack Deep Learning](https://github.com/full-stack-deep-learning/course-gitbook) community.
+- 🤔 I’m looking for help to get more guests on [Datacast](https://datacast.simplecast.com/).
 
 ## Find me around the web 🌎:
 - Everything about me in my <a href="https://jameskle.com/">website</a> 🖥

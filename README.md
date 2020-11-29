@@ -10,6 +10,6 @@ I write often about theoretical deep learning and applied MLOps.
 
 ## Find me around the web 🌎:
 - Everything about me in my <a href="https://jameskle.com/">website</a> 🖥
-- Writing in public on <a href="https://medium.com/@james_aka_yale">Medium</a> ✍🏽
+- Writing in public on <a href="https://le-james94.medium.com/">Medium</a> ✍🏽
 - Interviewing people on <a href="https://datacast.simplecast.com/"> Datacast</a> 🎤
 - Sharing updates on <a href="https://www.linkedin.com/in/khanhnamle94">LinkedIn</a> and <a href="https://twitter.com/le_james94">Twitter</a> 💼  🐦
